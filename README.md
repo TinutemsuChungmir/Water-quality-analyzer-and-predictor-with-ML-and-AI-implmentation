@@ -15,3 +15,5 @@ As for frontend:
 3. JS
 
 Along with python backend implementation with its performance optimmized using Numpy and Pandas. 
+
+![alt text](Screenshot 2025-08-23 012550.png)
