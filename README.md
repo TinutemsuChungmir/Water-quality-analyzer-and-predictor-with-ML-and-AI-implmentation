@@ -16,4 +16,4 @@ As for frontend:
 
 Along with python backend implementation with its performance optimmized using Numpy and Pandas. 
 
-![alt text](Screenshot 2025-08-23 012550.png)
+<img width="1257" height="897" alt="Screenshot 2025-08-23 012550" src="https://github.com/user-attachments/assets/01b3115f-3b6b-4ae1-89ac-43e30d2bb548" />
